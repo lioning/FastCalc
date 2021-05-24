@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="hello">你好</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">send</string>
+    <string name="currentvalue">现值</string>
+    <string name="growthrate">增长率</string>
+    <string name="growthbtn">计算增长量</string>
+    <string name="estimate_growth">估算增量</string>
+    <string name="oktbn">确定</string>
+    <string name="deviation2">2位误差</string>
+    <string name="accurate_growth">实际增量</string>
+    <string name="deviation3">3位误差</string>
+    <string name="deviation4">4位误差</string>
+    <string name="divide">除法</string>
+    <string name="dividend">被除数</string>
+    <string name="divisor">除数</string>
+    <string name="quotient">商</string>
+    <string name="result">结果</string>
+    <string name="estimate_value">估算值</string>
+    <string name="accurate_value">实际值</string>
+    <string name="change_number">换数</string>
+</resources>
